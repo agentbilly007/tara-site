@@ -1,2 +1,4 @@
 preview-*
 pv*.png
+.stfolder/
+.stignore
